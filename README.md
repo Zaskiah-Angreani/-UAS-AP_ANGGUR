@@ -16,4 +16,4 @@ Riwayat tebakan ditampilkan di setiap putaran, dan pemain dapat memilih untuk be
 [Klik untuk melihat file bukti (Google Drive)](https://drive.google.com/file/d/17j80Z62G_bdHY-M-RhRzbqoYBL3Grtku/view?usp=sharing)
 
 ## Link Video
-_(Masukkan link videonya di sini nanti)_
+https://youtu.be/pW61nZ1pdYA
